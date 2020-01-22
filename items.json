@@ -1,0 +1,11 @@
+{
+  "shirts": [
+    {
+      "id": 1,
+      "name": "Standard Tee",
+      "price": 5000,
+      "imgName": "shirt.png"
+    }
+  ],
+  "merch": [{}]
+}
